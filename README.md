@@ -1,2 +1,2 @@
 # 9frqs
-thank you dino for the help!!
+thank you dino-cd (bfdi_a) for the help!!
