@@ -50,7 +50,7 @@ Steep, Steeper, Steepest
 00,01.50,06.00,10
 02
 99H use "r" to return back to the spawn and to start over again whenever you die!
-00S ok i dont fucking care
+00S ok i dont care
 000000
 
 Cave-Diving
@@ -1163,7 +1163,7 @@ wwBBBBBBBBwBBBBBwwwwwwwwww.....ww.......ww
 12
 00S eugh who are YOU two
 03S ...
-04S okay fucking rude
+04S okay RUDE
 04H im hatty
 04H the purple guy is bon
 03H (waves)
@@ -1403,7 +1403,7 @@ New Pal
 10
 00H oh hi!
 01H oh BYE
-02S fuck you fatass
+02S die you fat chud
 01S dude's mean
 00S they're right you know
 02H locals told me that you're trying to get out of evil leafy!
@@ -2208,7 +2208,7 @@ Respect to the Wicked
 99H it's your job to carry this evil slime monster to its humble abode
 00S ... >:/
 99H i do not care if you want to do it or not
-00S dude i'm sick of your shit oh my god man leave me alone alright
+00S dude i'm sick of you oh my god man leave me alone alright
 99H What the hell.
 000000
 
