@@ -1,8 +1,8 @@
 CREDITS!!!
 
-|-MyaFactorial = The creator of 9frqs! Did nearly everything from sprites, levels, and art! Owner of Hatty, Polka, and ??????
+|-MyaFactorial = The creator of 9frqs! Did nearly everything from sprites, levels, and art! Owner of Hatty, Polka, Hot Glue Stick, and Olbas!
 |-Zephwing27 = Recommender of Flag (NPC) and creator of levels 62-65!
-|-Jane = Made the script for the randomized grass things! also exchanged for the patterns of the blue tile and grey tile but dont worry about that
+|-Jane = A lot of ActionScript! (grass tufts and low gravity) we also exchanged for the patterns of the blue tile and grey tile but dont worry about that
 |-The recommenders for their character's assets! (Arthur, Flag, and Runner Up being exceptions)
 
 PLAYABLE CHARACTER RECOMMENDERS:
@@ -12,3 +12,10 @@ Swirls (Paradox)
 BonsterLeBunny (Bon)
 Binnie (Arthur)
 Rappa (Corrupted Cappy)
+
+Capdela (Runner Up) (NPC)
+
+PLAYTESTERS:
+_prahbu
+yourlocalblob
+magnetbutalt
